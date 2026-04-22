@@ -1,11 +1,10 @@
-# AymanByte – Portfolio Website
+# pushkar khollam – Portfolio Website
 
-![AymanByte Portfolio Preview](assets/portfolio-preview.png)
 
-A modern, responsive portfolio website for **Ayman Plöger** (Full-Stack Developer), built with clean HTML/CSS/JavaScript and a focus on performance, clarity, and professional presentation.
+A modern, responsive portfolio website for **pushkar khollam** (Full-Stack Developer), built with clean HTML/CSS/JavaScript and a focus on performance, clarity, and professional presentation.
 
 ## 🌐 Live Demo
-- Netlify: https://aymanbyte-portfolio.netlify.app/
+- https://puhskar-khollam.netlify.app/
 
 ## 📄 Pages
 - **index.html** — Developer portfolio (about, skills, projects, experience, contact)
@@ -45,12 +44,9 @@ Recommended deployment via Netlify (Git-based):
 - Publish directory: `.`
 
 ## 📬 Contact
-- Email: **aymanploger@gmail.com**
+- Email: khollampushkar@gmail.com
 - GitHub: https://github.com/Ploger1979
-- Instagram: https://www.instagram.com/ayman.ploeger/
-- Facebook: https://www.facebook.com/profile.php?id=61585532606908
 
----
 
-© 2025 Ayman Plöger — All rights reserved.
+
 
