@@ -45,7 +45,7 @@ Recommended deployment via Netlify (Git-based):
 
 ## 📬 Contact
 - Email: khollampushkar@gmail.com
-- GitHub: https://github.com/Ploger1979
+- GitHub: https://github.com/khollampushkar
 
 
 
